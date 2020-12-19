@@ -5,7 +5,7 @@ This is for predicting the direction of a stock in the next trading day. The dir
 
 
 ## language Used
-⋅⋅* Python
+* Python
 
 ## Library Used
 
@@ -16,7 +16,3 @@ Markup : - Numpy
          * yfinance
          * sklearn
 
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
