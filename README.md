@@ -5,7 +5,7 @@ This is for predicting the direction of a stock in the next trading day. The dir
 
 
 ## language Used
-..*Python
+⋅⋅* Python
 
 ## Library Used
 ..*Numpy
