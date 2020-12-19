@@ -9,7 +9,7 @@ This is for predicting the direction of a stock in the next trading day. The dir
 
 ## Library Used
 
-MarkUp : - Numpy
+Markup : - Numpy
          * Pandas
          * matplotlib
          * datetime
