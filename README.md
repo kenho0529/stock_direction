@@ -8,9 +8,10 @@ This is for predicting the direction of a stock in the next trading day. The dir
 ⋅⋅* Python
 
 ## Library Used
-..*Numpy
-..*Pandas
-..*matplotlib
-..*datetime
-..*yfinance
-..*sklearn
+
+MarkUp : * Numpy
+         * Pandas
+         * matplotlib
+         * datetime
+         * yfinance
+         * sklearn
